@@ -1030,7 +1030,7 @@ components:
               tags:
                 description: List of tags.
                 type: array
-                items: 
+                items:
                   type: string
               description:
                 description: The description of the field.

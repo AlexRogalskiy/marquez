@@ -22,7 +22,7 @@ They take responsibility for guiding new pull requests into the main branch.
 | Michael Collado    | [@collado-mike](https://github.com/collado-mike)     |
 | Kevin Mellott      | [@KevinMellott91](https://github.com/KevinMellott91) |
 | Michael Robinson   | [@merobi-hub](https://github.com/merobi-hub)         |
-     
+
 ## Emeritus
 
 The following people are no longer working on the Marquez project.

@@ -4,7 +4,7 @@ Before you can manually apply migrations to the `marquez` database, make sure yo
 
 ```bash
 $ brew install flyway
-``` 
+```
 
 **You'll also need the following details about the migration:**
 
