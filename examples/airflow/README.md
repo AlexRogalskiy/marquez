@@ -67,7 +67,7 @@ First, let's create the `dags/` folder where our example DAGs will be located:
 $ mkdir dags
 ```
 
-When writing our DAGs, we'll use [`openlineage-airflow`](https://pypi.org/project/openlineage-airflow), enabling OpenLineage to observe the DAG and automatically collect task-level metadata. If you're using Airflow 2.3+ no further changes to your dag code, or configuration are needed. If you're using older version of Airflow, please look [here](https://github.com/OpenLineage/OpenLineage/blob/main/integration/airflow/README.md#setup) to understand how to configure Airflow integration. 
+When writing our DAGs, we'll use [`openlineage-airflow`](https://pypi.org/project/openlineage-airflow), enabling OpenLineage to observe the DAG and automatically collect task-level metadata. If you're using Airflow 2.3+ no further changes to your dag code, or configuration are needed. If you're using older version of Airflow, please look [here](https://github.com/OpenLineage/OpenLineage/blob/main/integration/airflow/README.md#setup) to understand how to configure Airflow integration.
 
 # Step 2.1: Create DAG `counter`
 

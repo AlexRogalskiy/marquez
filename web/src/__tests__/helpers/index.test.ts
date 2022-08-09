@@ -16,4 +16,3 @@ describe('formatUpdated Function', () => {
     expect(formatedDate).toBe('May 13, 2021 01:45pm')
   })
 })
-
